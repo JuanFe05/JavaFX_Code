@@ -1,0 +1,75 @@
+#btnGuardarDatos,
+#btnBuscar,
+#btnObtenerDatos {
+    -fx-text-fill: black;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#ffd854, #ff8a50);
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.6), 5, 0.0, 0, 1);
+}
+
+#btnGuardarDatos:hover,
+#btnBuscar:hover,
+#btnObtenerDatos:hover {
+    -fx-background-color: linear-gradient(#ff8a50, #ffd854);
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+    -fx-font-size: 16px;
+}
+
+/* btnProcesarDatos y btnCancelar */
+#btnProcesarDatos,
+#btnCancelar {
+    -fx-text-fill: black;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-font-size: 16px;
+    -fx-background-color: linear-gradient(#b092ff, #7169dd);
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.6), 5, 0.0, 0, 1);
+}
+
+#btnProcesarDatos:hover,
+#btnCancelar:hover {
+    -fx-background-color: linear-gradient(#7169dd, #b092ff);
+    -fx-font-family: "Arial Narrow";
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+    -fx-font-size: 16px;
+}
+
+/* btnEliminarDatos */
+#btnEliminarDatos {
+    -fx-text-fill: black;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-font-size: 16px;
+    -fx-background-color: linear-gradient(#d64b55, #9b3243);
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.6), 5, 0.0, 0, 1);
+}
+
+#btnEliminarDatos:hover {
+    -fx-background-color: linear-gradient(#9b3243, #d64b55);
+    -fx-font-family: "Arial Narrow";
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+    -fx-font-size: 16px;
+}
+
+/* btnEditarDatos */
+#btnEditarDatos {
+    -fx-text-fill: black;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-font-size: 16px;
+    -fx-background-color: linear-gradient(#0ffff8, #0989ab);
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.6), 5, 0.0, 0, 1);
+}
+
+#btnEditarDatos:hover {
+    -fx-background-color: linear-gradient(#0989ab, #0ffff8);
+    -fx-font-family: "Arial Narrow";
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+    -fx-font-size: 16px;
+}
