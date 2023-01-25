@@ -75,4 +75,6 @@ public class App extends Application {
 
  - Una vez haya creado la vista **.fxml** y el controlador, es necesario añadir en dicho archivo **.fxml** lo siguiente:
  
-    fx:controller="NombreDelPaquete.NombreDeLaClase"
+```bash
+  fx:controller="NombreDelPaquete.NombreDeLaClase"
+```
