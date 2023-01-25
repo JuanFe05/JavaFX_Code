@@ -78,3 +78,5 @@ public class App extends Application {
 ```bash
   fx:controller="NombreDelPaquete.NombreDeLaClase"
 ```
+
+![op_1](https://user-images.githubusercontent.com/40324908/214718788-400c1258-4d04-401c-a05a-7cc93b00ada8.png)
