@@ -42,7 +42,7 @@ Previo a los siguientes pasos, debe haber instalado en su equipo el **AdoptOpenJ
   "vmArgs": "--module-path C:/JavaFX/javafx-sdk-19.0.2.1/lib --add-modules javafx.controls,javafx.fxml",
 ```
 
-<div align="center" width="300" height="200">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/40324908/214441463-df8e52a5-6c26-4987-9a19-e3f290ef954f.PNG" alt="Install_4">
 </div>
 
@@ -87,8 +87,12 @@ public class App extends Application {
   fx:controller="NombreDelPaquete.NombreDeLaClase"
 ```
 
-![op_1](https://user-images.githubusercontent.com/40324908/214718788-400c1258-4d04-401c-a05a-7cc93b00ada8.png)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/40324908/214718788-400c1258-4d04-401c-a05a-7cc93b00ada8.png" alt="op_1">
+</div>
 
 - O el paso anterior, puedes agregar la ruta del controlador directamente desde el SceneBuilder.
 
-![SB](https://user-images.githubusercontent.com/40324908/214751481-8213e399-e0b8-4bfd-890a-c0ba16191cc5.PNG)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/40324908/214751481-8213e399-e0b8-4bfd-890a-c0ba16191cc5.PNG" alt="SB">
+</div>
