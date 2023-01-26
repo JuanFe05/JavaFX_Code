@@ -73,10 +73,14 @@ public class App extends Application {
 }
 ```
 
- - Una vez haya creado la vista **.fxml** y el controlador, es necesario añadir en dicho archivo **.fxml** lo siguiente:
+- Una vez haya creado la vista **.fxml** y el controlador, es necesario añadir en dicho archivo **.fxml** lo siguiente:
  
 ```bash
   fx:controller="NombreDelPaquete.NombreDeLaClase"
 ```
 
 ![op_1](https://user-images.githubusercontent.com/40324908/214718788-400c1258-4d04-401c-a05a-7cc93b00ada8.png)
+
+- O el paso anterior, puedes agregar la ruta del controlador directamente desde el SceneBuilder.
+
+![SB](https://user-images.githubusercontent.com/40324908/214751481-8213e399-e0b8-4bfd-890a-c0ba16191cc5.PNG)
