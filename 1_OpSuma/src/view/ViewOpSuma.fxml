@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="380.0" prefWidth="350.0" style="-fx-background-color: #0f0e17;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.SumaController">
+   <children>
+      <Label layoutX="65.0" layoutY="6.0" text="OPERACIÓN SUMA" textAlignment="CENTER" textFill="#ff8906">
+         <font>
+            <Font name="Arial Bold" size="24.0" />
+         </font>
+         <padding>
+            <Insets bottom="10.0" top="10.0" />
+         </padding>
+      </Label>
+      <Button fx:id="btnSumar" layoutX="75.0" layoutY="242.0" mnemonicParsing="false" onAction="#sumar" prefHeight="36.0" prefWidth="200.0" style="-fx-background-color: #ff8906;" text="SUMAR" textAlignment="CENTER" textFill="WHITE">
+         <font>
+            <Font name="Arial Bold" size="18.0" />
+         </font>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Button>
+      <TextField fx:id="txtNumero1" alignment="CENTER" layoutX="76.0" layoutY="89.0" prefHeight="36.0" prefWidth="200.0">
+         <font>
+            <Font name="Arial Bold" size="16.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="txtNumero2" alignment="CENTER" layoutX="76.0" layoutY="169.0" prefHeight="36.0" prefWidth="200.0">
+         <font>
+            <Font name="Arial Bold" size="16.0" />
+         </font>
+      </TextField>
+      <Label layoutX="76.0" layoutY="68.0" text="Número 1:" textFill="#fffffe">
+         <font>
+            <Font name="Arial Bold" size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="76.0" layoutY="148.0" text="Número 2:" textFill="#fffffe">
+         <font>
+            <Font name="Arial Bold" size="18.0" />
+         </font>
+      </Label>
+      <TextField fx:id="txtResultado" alignment="CENTER" editable="false" layoutX="76.0" layoutY="324.0" prefHeight="36.0" prefWidth="200.0">
+         <font>
+            <Font name="Arial Bold" size="16.0" />
+         </font>
+      </TextField>
+      <Label layoutX="76.0" layoutY="303.0" text="Resultado:" textFill="#fffffe">
+         <font>
+            <Font name="Arial Bold" size="18.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
