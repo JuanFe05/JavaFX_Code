@@ -21,7 +21,7 @@ Previo a los siguientes pasos, debe haber instalado en su equipo el **AdoptOpenJ
 ![Install_1](https://user-images.githubusercontent.com/40324908/214439039-458631e1-01e8-47ac-a2ed-c5bd7995fe7c.PNG)
 
 <div align="center">
-  <img src="[image-url](https://user-images.githubusercontent.com/40324908/214439039-458631e1-01e8-47ac-a2ed-c5bd7995fe7c.PNG)" alt="Install_1">
+  <img src="https://user-images.githubusercontent.com/40324908/214439039-458631e1-01e8-47ac-a2ed-c5bd7995fe7c.PNG" alt="Install_1">
 </div>
 
 - En el siguiente cuadro de diálogo, ir a la subcarpeta **"lib"** de la ruta en la cual descomprimió **JAVA FX SDK**. Para efectos demostrativos, en este tutorial, se encuentra en la ruta **"C:\javafx-sdk-19.0.2.1\lib"**. Seleccione todos los archivos **.jar** de la carpeta **"lib"** y de clic en el botón **"Select libraries"** para agregarlos.
