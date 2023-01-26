@@ -1,0 +1,3 @@
+# Operación Suma
+
+Este repositorio contiene un proyecto desarrollado en Java utilizando el framework JavaFX. El proyecto tiene como objetivo principal realizar una suma simple de dos números mediante una interfaz gráfica de usuario (GUI) desarrollada con JavaFX. El proyecto cuenta con una interfaz intuitiva y fácil de usar, que permite al usuario ingresar dos números y obtener su suma en tiempo real. Además, el código está comentado de manera detallada para facilitar su comprensión y posible modificación. Este proyecto es una excelente oportunidad para aquellos que desean aprender o mejorar sus habilidades en Java y JavaFX.
