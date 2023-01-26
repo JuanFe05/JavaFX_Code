@@ -32,7 +32,9 @@ Previo a los siguientes pasos, debe haber instalado en su equipo el **AdoptOpenJ
 
 - Dar clic en el archivo **App.java** y dirigirse al menú **Run > Add Configuration…**.
 
-![Install_3](https://user-images.githubusercontent.com/40324908/214440337-6feccc6a-5b60-4817-ad7d-eb86c18b4ecb.PNG)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/40324908/214440337-6feccc6a-5b60-4817-ad7d-eb86c18b4ecb.PNG" alt="Install_3">
+</div>
 
 - Se abre el archivo **"launch.json"**, en el cual se debe agregar la siguiente línea:
 
@@ -40,7 +42,9 @@ Previo a los siguientes pasos, debe haber instalado en su equipo el **AdoptOpenJ
   "vmArgs": "--module-path C:/JavaFX/javafx-sdk-19.0.2.1/lib --add-modules javafx.controls,javafx.fxml",
 ```
 
-![Install_4](https://user-images.githubusercontent.com/40324908/214441463-df8e52a5-6c26-4987-9a19-e3f290ef954f.PNG)
+<div align="center" width="300" height="200">
+  <img src="https://user-images.githubusercontent.com/40324908/214441463-df8e52a5-6c26-4987-9a19-e3f290ef954f.PNG" alt="Install_4">
+</div>
 
 - Pegar el siguiente código en el archivo **App.java** para probar el funcionamiento correcto del **Java FX SDK**.
 
