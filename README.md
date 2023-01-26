@@ -91,7 +91,7 @@ public class App extends Application {
   <img src="https://user-images.githubusercontent.com/40324908/214718788-400c1258-4d04-401c-a05a-7cc93b00ada8.png" alt="op_1">
 </div>
 
-- O el paso anterior, puedes agregar la ruta del controlador directamente desde el SceneBuilder.
+- O si es preferible, puedes agregar la ruta del controlador directamente desde el **SceneBuilder**.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/40324908/214751481-8213e399-e0b8-4bfd-890a-c0ba16191cc5.PNG" alt="SB">
