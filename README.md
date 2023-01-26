@@ -18,8 +18,10 @@ Previo a los siguientes pasos, debe haber instalado en su equipo el **AdoptOpenJ
 
 - En el proyecto, de clic sobre el archivo **App.java**, y en la parte inferior izquierda del editor se habilitará una sección llamada **JAVA PROJECTS**. Despliegue la sección **JAVA PROJECTS** dando clic en ella, elija la opción **"Referenced Libraries"** y de clic en el **botón +**.
 
+![Install_1](https://user-images.githubusercontent.com/40324908/214439039-458631e1-01e8-47ac-a2ed-c5bd7995fe7c.PNG)
+
 <div align="center">
-  ![Install_1](https://user-images.githubusercontent.com/40324908/214439039-458631e1-01e8-47ac-a2ed-c5bd7995fe7c.PNG)
+  <img src="[image-url](https://user-images.githubusercontent.com/40324908/214439039-458631e1-01e8-47ac-a2ed-c5bd7995fe7c.PNG)" alt="Install_1">
 </div>
 
 - En el siguiente cuadro de diálogo, ir a la subcarpeta **"lib"** de la ruta en la cual descomprimió **JAVA FX SDK**. Para efectos demostrativos, en este tutorial, se encuentra en la ruta **"C:\javafx-sdk-19.0.2.1\lib"**. Seleccione todos los archivos **.jar** de la carpeta **"lib"** y de clic en el botón **"Select libraries"** para agregarlos.
